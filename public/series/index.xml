@@ -6,7 +6,9 @@
     <description>Recent content in Series on HOMEGOLEM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
+    <managingEditor>jackson@homegolem.net (Jackson Holland)</managingEditor>
+    <webMaster>jackson@homegolem.net (Jackson Holland)</webMaster>
+    <copyright>© 2024 Jackson Holland</copyright>
     <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
