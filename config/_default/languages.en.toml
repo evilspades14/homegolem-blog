@@ -24,7 +24,7 @@ title = "HOMEGOLEM"
   links = [
     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
-#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+    { amazon = "https://www.amazon.com/hz/wishlist/ls/1X6GLJ71ZDPJJ/ref=nav_wishlist_lists_2" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
 #     { bluesky = "https://bsky.app/profile/username" },
