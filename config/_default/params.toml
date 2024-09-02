@@ -19,7 +19,7 @@ replyByEmail = true
 
 disableImageOptimization = false
 disableTextInHeader = false
-backgroundImageWidth = 1000
+backgroundImageWidth = 800
 
 defaultBackgroundImage = "static/hg_background_static.png" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
@@ -42,8 +42,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  homepageImage = 'static/hg_background_static.png' # used in: hero, and card
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = 'img/hg_background.gif' # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
