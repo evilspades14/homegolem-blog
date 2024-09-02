@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "6348c4dd46163a48",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f8bb9df3bd5f219",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26003cb3e41b30b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WISHLIST/NENDOROID.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84c600973c788a82",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f7893d4f793d307d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bd58ac638f02d9f5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ddd9f4e49778bcf0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4d4502fa9b08e480",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "44e377c0cb6faba5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6df72ed5b6f44e35",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "WISHLIST/NENDOROID.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2ed5b1c91f99ba12",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "WISHLIST/NENDOROID.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "077f829407842944",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "WISHLIST/NENDOROID.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "26003cb3e41b30b1",
+  "lastOpenFiles": [
+    "WISHLIST/PEEKER.md",
+    "WISHLIST/NENDOROID.md",
+    "WISHLIST/MOUSEPAD.md",
+    "WISHLIST/CLOTHING.md",
+    "WISHLIST/MISC.md",
+    "().md",
+    "Templates/MOUSEPAD.md",
+    "Templates/NENDOROID.md",
+    "Templates/PEEKER.md",
+    "Templates/CLOTHING_TEMPLATE.md",
+    "NENDOROID CSS.css.md",
+    "CSS",
+    "IMAGE",
+    "Templates",
+    "IMAGE/054TheCuriographer-MistressOfTheAutumnVeil_medium.jpg",
+    "052Rayskinz-RedJapan_052A_1024x1024 1.jpg",
+    "IMAGE/052Rayskinz-RedJapan_052A_1024x1024.jpg",
+    "LINKS.md",
+    "WISHLIST"
+  ]
+}

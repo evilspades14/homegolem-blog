@@ -1,0 +1,10 @@
+{
+  "matches": [
+    {
+      "path": "DESKTOP",
+      "scope": "Read",
+      "classes": []
+    }
+  ],
+  "version": "2.3.0"
+}
