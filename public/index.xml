@@ -30,11 +30,81 @@
     
     <item>
       <title></title>
+      <link>http://localhost:1313/posts/templates/mousepad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/templates/mousepad/</guid>
+      <description>#</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/templates/nendoroid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/templates/nendoroid/</guid>
+      <description>#</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/templates/peeker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/templates/peeker/</guid>
+      <description>#</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/wishlist/clothing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/wishlist/clothing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/wishlist/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/wishlist/misc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:1313/posts/wishlist/mousepad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/wishlist/mousepad/</guid>
       <description>RED JAPAN #MISTRESS OF THE AUTUMN VEIL #VAMPIRE CASTLE #CROWN OF MADNESS #</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/wishlist/peeker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/wishlist/peeker/</guid>
+      <description>TOJI V2 #FRIEREN V2 #TOJI #MAKIMA #SAMUS #SAGIRI #</description>
+      
+    </item>
+    
+    <item>
+      <title>NENDOROID</title>
+      <link>http://localhost:1313/posts/wishlist/nendoroid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/wishlist/nendoroid/</guid>
+      <description>KIKURI #CHOSO #TOJI #KOBENI #AKI #GABIMARU #FRIEREN #FERN #RANNI #KAGUYA #VLADILENA #NOHR NOBLE CORRIN #SAMUS (DREAD) #</description>
       
     </item>
     
