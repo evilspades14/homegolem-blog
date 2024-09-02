@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/WISHLIST/NENDOROID.md",
+                "file": "posts/WISHLIST/PEEKER.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/WISHLIST/NENDOROID.md",
+                "file": "posts/WISHLIST/PEEKER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/WISHLIST/NENDOROID.md",
+                "file": "posts/WISHLIST/PEEKER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/WISHLIST/NENDOROID.md"
+                "file": "posts/WISHLIST/PEEKER.md"
               }
             }
           }
@@ -151,12 +151,12 @@
   },
   "active": "a33a792b1c87b91b",
   "lastOpenFiles": [
+    "posts/WISHLIST/NENDOROID.md",
     "about.md",
     "New Text Document.txt",
     "_index.md",
     "WISHLIST/NENDOROID.md",
     "posts/WISHLIST/PEEKER.md",
-    "posts/WISHLIST/NENDOROID.md",
     "posts/WISHLIST/MOUSEPAD.md",
     "posts/WISHLIST/MISC.md",
     "posts/WISHLIST/CLOTHING.md",
