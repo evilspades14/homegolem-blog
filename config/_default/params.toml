@@ -19,9 +19,9 @@ replyByEmail = false
 
 disableImageOptimization = false
 disableTextInHeader = false
-backgroundImageWidth = 1200
+backgroundImageWidth = 800
 
-defaultBackgroundImage = "hg_background.gif" # used as default for background images 
+defaultBackgroundImage = "static/hg_background.gif" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
