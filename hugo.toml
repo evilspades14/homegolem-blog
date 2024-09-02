@@ -1,4 +1,0 @@
-baseURL = 'http://blog.homegolem.net/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
