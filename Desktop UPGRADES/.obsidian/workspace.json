@@ -11,8 +11,12 @@
             "id": "a33a792b1c87b91b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/WISHLIST/NENDOROID.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/WISHLIST/NENDOROID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/WISHLIST/NENDOROID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/WISHLIST/NENDOROID.md"
+              }
             }
           }
         ]
@@ -143,6 +151,9 @@
   },
   "active": "a33a792b1c87b91b",
   "lastOpenFiles": [
+    "about.md",
+    "New Text Document.txt",
+    "_index.md",
     "WISHLIST/NENDOROID.md",
     "posts/WISHLIST/PEEKER.md",
     "posts/WISHLIST/NENDOROID.md",

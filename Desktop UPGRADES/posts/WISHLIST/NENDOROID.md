@@ -1,5 +1,5 @@
 +++
-
+title = 'NENDOROID WISHLIST'
 +++
 ## [KIKURI](https://www.goodsmileus.com/product/nendoroid-kikuri-hiroi-12016?search=Bocchi)
 <div style="overflow:hidden;padding:0;position:relative;height:300;width:300;"><iframe 
