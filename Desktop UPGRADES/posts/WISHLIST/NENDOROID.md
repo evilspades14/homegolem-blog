@@ -3,9 +3,9 @@ title: GOODSMILE
 ---
 
 ## [CHOSO](https://www.goodsmileus.com/product/nendoroid-choso-11767)
-![[47fa0a85ffbc41ec9f2a2cfd8f2a180axl.png]]
+![[47fa0a85ffbc41ec9f2a2cfd8f2a180axl.png|300]]
 
-<img src="./resources/47fa0a85ffbc41ec9f2a2cfd8f2a180axl.png">
+![choso](47fa0a85ffbc41ec9f2a2cfd8f2a180axl.png)
 
 ## [TOJI](https://www.goodsmileus.com/product/nendoroid-toji-fushiguro-11657?search=Toji)
 <div style="overflow:hidden;padding:0;position:relative;height:300;width:300;"><iframe 
