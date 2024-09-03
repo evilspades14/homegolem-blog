@@ -19,7 +19,7 @@
   "refreshSourceControl": true,
   "basePath": "\\Desktop UPGRADES",
   "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": false,
+  "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
