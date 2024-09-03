@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on HOMEGOLEM</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://blog.homegolem.net/posts/</link>
     <description>Recent content in Posts on HOMEGOLEM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>jackson@homegolem.net (Jackson Holland)</managingEditor>
     <webMaster>jackson@homegolem.net (Jackson Holland)</webMaster>
     <copyright>© 2024 Jackson Holland</copyright>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.homegolem.net/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/templates/clothing_template/</link>
+      <link>https://blog.homegolem.net/posts/templates/clothing_template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jackson@homegolem.net (Jackson Holland)</author>
-      <guid>http://localhost:1313/posts/templates/clothing_template/</guid>
+      <guid>https://blog.homegolem.net/posts/templates/clothing_template/</guid>
       <description>#</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/templates/mousepad/</link>
+      <link>https://blog.homegolem.net/posts/templates/mousepad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jackson@homegolem.net (Jackson Holland)</author>
-      <guid>http://localhost:1313/posts/templates/mousepad/</guid>
+      <guid>https://blog.homegolem.net/posts/templates/mousepad/</guid>
       <description>#</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/templates/nendoroid/</link>
+      <link>https://blog.homegolem.net/posts/templates/nendoroid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jackson@homegolem.net (Jackson Holland)</author>
-      <guid>http://localhost:1313/posts/templates/nendoroid/</guid>
+      <guid>https://blog.homegolem.net/posts/templates/nendoroid/</guid>
       <description>#</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/templates/peeker/</link>
+      <link>https://blog.homegolem.net/posts/templates/peeker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jackson@homegolem.net (Jackson Holland)</author>
-      <guid>http://localhost:1313/posts/templates/peeker/</guid>
+      <guid>https://blog.homegolem.net/posts/templates/peeker/</guid>
       <description>#</description>
       
     </item>
     
     <item>
       <title>GOODSMILE</title>
-      <link>http://localhost:1313/posts/goodsmile/</link>
+      <link>https://blog.homegolem.net/posts/goodsmile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jackson@homegolem.net (Jackson Holland)</author>
-      <guid>http://localhost:1313/posts/goodsmile/</guid>
+      <guid>https://blog.homegolem.net/posts/goodsmile/</guid>
       <description>CHOSO #TOJI #KOBENI #AKI #GABIMARU #RANNI #VLADILENA #NOHR NOBLE CORRIN #SAMUS (DREAD) #</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/goodsmile/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.homegolem.net/posts/goodsmile/featured.png" />
     </item>
     
   </channel>

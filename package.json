@@ -3,6 +3,7 @@
     "husky": "^9.1.5"
   },
   "scripts": {
-    "prepare": "husky"
+    "prepare": "husky",
+    "husky": "node ./node_modules/husky/lib/bin.js"
   }
 }

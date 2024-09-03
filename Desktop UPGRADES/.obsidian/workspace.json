@@ -11,8 +11,12 @@
             "id": "a33a792b1c87b91b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/GOODSMILE/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/GOODSMILE/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/GOODSMILE/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/GOODSMILE/index.md"
+              }
             }
           }
         ]
@@ -143,10 +151,12 @@
   },
   "active": "a33a792b1c87b91b",
   "lastOpenFiles": [
-    "posts/WISHLIST/GOODSMILE/index.md",
-    "posts/GOODSMILE/index.md",
     "posts/GOODSMILE/featured.png",
     "posts/GOODSMILE/47fa0a85ffbc41ec9f2a2cfd8f2a180axl.png",
+    "_index.md",
+    "about.md",
+    "posts/WISHLIST/GOODSMILE/index.md",
+    "posts/GOODSMILE/index.md",
     "posts/GOODSMILE",
     "posts/WISHLIST/GOODSMILE/47fa0a85ffbc41ec9f2a2cfd8f2a180axl.png",
     "posts/WISHLIST/GOODSMILE/featured.png",
@@ -160,9 +170,7 @@
     "posts/WISHLIST/MISC.md",
     "posts/WISHLIST/CLOTHING.md",
     "posts/WISHLIST/PEEKER.md",
-    "about.md",
     "New Text Document.txt",
-    "_index.md",
     "WISHLIST/NENDOROID.md",
     "posts/WISHLIST",
     "posts/Templates/PEEKER.md",
