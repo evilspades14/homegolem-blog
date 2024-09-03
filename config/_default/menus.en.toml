@@ -1,6 +1,6 @@
 # config/_default/menus.toml
 
 [[main]]
-  name = "Blog"
+  name = "Lists"
   pageRef = "posts"
   weight = 10
