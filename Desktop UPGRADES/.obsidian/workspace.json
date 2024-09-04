@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "posts/GOODSMILE/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "posts/GOODSMILE/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "posts/GOODSMILE/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "posts/GOODSMILE/index.md"
               }
             }
           }
@@ -151,10 +151,11 @@
   },
   "active": "a33a792b1c87b91b",
   "lastOpenFiles": [
-    "about.md",
-    "_index.md",
-    "posts/GOODSMILE/index.md",
+    "posts/GOODSMILE/01_2305241522244259-1200x1200.jpg",
     "posts/GOODSMILE/featured.png",
+    "_index.md",
+    "about.md",
+    "posts/GOODSMILE/index.md",
     "posts/GOODSMILE/47fa0a85ffbc41ec9f2a2cfd8f2a180axl.png",
     "posts/WISHLIST/GOODSMILE/index.md",
     "posts/GOODSMILE",
