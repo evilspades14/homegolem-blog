@@ -14,6 +14,7 @@ width=300 src="https://imgs1.goodsmileus.com/image/cache/data/productimages/Scal
 ## [SAMUS (DREAD)](https://www.goodsmileus.com/product/figma-samus-aran-dread-ver-9210)
 <div style="overflow:hidden;padding:0;position:relative;height:300;width:300;"><img 
 width=300 src="https://imgs1.goodsmileus.com/image/cache/data/productimages/Figmas/SamusAran_DREAD/01_2209261242035746-1200x1200.jpg"></div>
+
 ## [TOJI](https://www.goodsmileus.com/product/nendoroid-toji-fushiguro-11657?search=Toji)
 <div style="overflow:hidden;padding:0;position:relative;height:300;width:300;"><iframe 
 style="-moz-transform: scale(0.25, 0.25); - webkit-transform: scale(0.25, 0.25); 
@@ -23,6 +24,8 @@ transform: scale(0.25, 0.25);
 -moz-transform-origin: top left;
 -webkit-transform-origin: top left;
 -o-transform-origin: top left;-ms-transform-origin: top left;transform-origin: top left;" height=1200 width=1200 src="https://imgs1.goodsmileus.com/image/cache/data/productimages/Nendoroids/TojiFushiguro/01_2310031211575575-1200x1200.jpg"></iframe></div>
+<img 
+width=300 src="https://imgs1.goodsmileus.com/image/cache/data/productimages/Figmas/SamusAran_DREAD/01_2209261242035746-1200x1200.jpg"></div>
 ## [KOBENI](https://www.goodsmileus.com/product/nendoroid-kobeni-9765)
 <div style="overflow:hidden;padding:0;position:relative;height:300;width:300;"><img 
 width=300 src="https://imgs3.goodsmileus.com/image/cache/data/productimages/Nendoroids/Kobeni/01_2212081319149568-1200x1200.jpg"></div>
