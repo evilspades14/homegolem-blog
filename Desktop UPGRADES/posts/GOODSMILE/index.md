@@ -6,6 +6,16 @@ title: GOODSMILE
 
 ![choso](47fa0a85ffbc41ec9f2a2cfd8f2a180axl.png)
 
+## [NOHR NOBLE CORRIN](https://www.goodsmileus.com/product/nohr-noble-corrin-10938?search=Nohr)
+<div style="overflow:hidden;padding:0;position:relative;height:300;width:300;"><img 
+width=300 src="https://imgs1.goodsmileus.com/image/cache/data/productimages/ScaleFigures/NohrNobleCorrin/01_2305241522244259-1200x1200.jpg"></div>
+
+## [SAMUS (DREAD)](https://www.goodsmileus.com/product/figma-samus-aran-dread-ver-9210)
+<div style="overflow:hidden;padding:0;position:relative;height:300;width:300;"><img 
+width=300 src="https://imgs1.goodsmileus.com/image/cache/data/productimages/Figmas/SamusAran_DREAD/01_2209261242035746-1200x1200.jpg"></div>
+
+
+
 ## [TOJI](https://www.goodsmileus.com/product/nendoroid-toji-fushiguro-11657?search=Toji)
 <div style="overflow:hidden;padding:0;position:relative;height:300;width:300;"><iframe 
 style="-moz-transform: scale(0.25, 0.25); - webkit-transform: scale(0.25, 0.25); 
@@ -15,6 +25,7 @@ transform: scale(0.25, 0.25);
 -moz-transform-origin: top left;
 -webkit-transform-origin: top left;
 -o-transform-origin: top left;-ms-transform-origin: top left;transform-origin: top left;" height=1200 width=1200 src="https://imgs1.goodsmileus.com/image/cache/data/productimages/Nendoroids/TojiFushiguro/01_2310031211575575-1200x1200.jpg"></iframe></div>
+
 
 ## [KOBENI](https://www.goodsmileus.com/product/nendoroid-kobeni-9765)
 <div style="overflow:hidden;padding:0;position:relative;height:300;width:300;"><iframe 
@@ -66,16 +77,5 @@ transform: scale(0.25, 0.25);
 -webkit-transform-origin: top left;
 -o-transform-origin: top left;-ms-transform-origin: top left;transform-origin: top left;" height=1200 width=1200 src="https://img.goodsmileus.com/image/cache/data/productimages/Nendoroids/VladilenaMiliz%C3%A9BloodyReginaVer/01_2203171230132793-1200x1200.jpg"></iframe></div>
 
-## [NOHR NOBLE CORRIN](https://www.goodsmileus.com/product/nohr-noble-corrin-10938?search=Nohr)
-![ncorrin](47fa0a85ffbc41ec9f2a2cfd8f2a180axl.png)
 
-## [SAMUS (DREAD)](https://www.goodsmileus.com/product/figma-samus-aran-dread-ver-9210)
-<div style="overflow:hidden;padding:0;position:relative;height:300;width:300;"><iframe 
-style="-moz-transform: scale(0.25, 0.25); - webkit-transform: scale(0.25, 0.25); 
--o-transform: scale(0.25, 0.25);
--ms-transform: scale(0.25, 0.25);
-transform: scale(0.25, 0.25); 
--moz-transform-origin: top left;
--webkit-transform-origin: top left;
--o-transform-origin: top left;-ms-transform-origin: top left;transform-origin: top left;" height=1200 width=1200 src="https://imgs1.goodsmileus.com/image/cache/data/productimages/Figmas/SamusAran_DREAD/01_2209261242035746-1200x1200.jpg"></iframe></div>
 
