@@ -11,3 +11,4 @@ rtl = false
 dateFormat = "2 January 2006"
 author = { name = "Jackson Holland", email = "jackson@homegolem.net", image = "img/author.png", links = [ { email = "mailto:hello@your_domain.com" }, { amazon = "https://www.amazon.com/hz/wishlist/ls/1X6GLJ71ZDPJJ/ref=nav_wishlist_lists_2" }, { github = "https://github.com/evilspades14" } ] }
 secondaryLogo = "53a0b34f-222c-4d5a-a823-2212e3ee739e.jpg"
+logo = "53a0b34f-222c-4d5a-a823-2212e3ee739e.jpg"
