@@ -52,10 +52,10 @@ showPagination = false
 invertPagination = false
 showReadingTime = false
 showTableOfContents = false
-showTaxonomies = false
+showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = false
-showZenMode = false
+showZenMode = true
 
 [list]
 showHero = false
