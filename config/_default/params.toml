@@ -94,6 +94,7 @@ showTableOfContents = true
 groupByYear = false
 cardView = true
 cardViewScreenWidth = false
+heroStyle = "big"
 
 [firebase]
 
