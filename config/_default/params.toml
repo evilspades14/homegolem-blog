@@ -55,7 +55,7 @@ showTableOfContents = false
 showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = false
-showZenMode = true
+showZenMode = false
 
 [list]
 showHero = false
@@ -92,7 +92,7 @@ showViews = false
 showLikes = false
 showTableOfContents = true
 groupByYear = false
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 
 [firebase]
