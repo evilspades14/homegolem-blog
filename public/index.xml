@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOMEGOLEM</title>
-    <link>http://localhost:61558/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on HOMEGOLEM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>jackson@homegolem.net (Jackson Holland)</managingEditor>
     <webMaster>jackson@homegolem.net (Jackson Holland)</webMaster>
     <copyright>© 2024 Jackson Holland</copyright>
-    <atom:link href="http://localhost:61558/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:61558/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jackson@homegolem.net (Jackson Holland)</author>
-      <guid>http://localhost:61558/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:61558/posts/templates/clothing_template/</link>
+      <link>http://localhost:1313/posts/templates/clothing_template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jackson@homegolem.net (Jackson Holland)</author>
-      <guid>http://localhost:61558/posts/templates/clothing_template/</guid>
+      <guid>http://localhost:1313/posts/templates/clothing_template/</guid>
       <description>#</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:61558/posts/templates/mousepad/</link>
+      <link>http://localhost:1313/posts/templates/mousepad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jackson@homegolem.net (Jackson Holland)</author>
-      <guid>http://localhost:61558/posts/templates/mousepad/</guid>
+      <guid>http://localhost:1313/posts/templates/mousepad/</guid>
       <description>#</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:61558/posts/templates/nendoroid/</link>
+      <link>http://localhost:1313/posts/templates/nendoroid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jackson@homegolem.net (Jackson Holland)</author>
-      <guid>http://localhost:61558/posts/templates/nendoroid/</guid>
+      <guid>http://localhost:1313/posts/templates/nendoroid/</guid>
       <description>#</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:61558/posts/templates/peeker/</link>
+      <link>http://localhost:1313/posts/templates/peeker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jackson@homegolem.net (Jackson Holland)</author>
-      <guid>http://localhost:61558/posts/templates/peeker/</guid>
+      <guid>http://localhost:1313/posts/templates/peeker/</guid>
       <description>#</description>
       
     </item>
     
     <item>
       <title>GOODSMILE</title>
-      <link>http://localhost:61558/posts/goodsmile/</link>
+      <link>http://localhost:1313/posts/goodsmile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jackson@homegolem.net (Jackson Holland)</author>
-      <guid>http://localhost:61558/posts/goodsmile/</guid>
+      <guid>http://localhost:1313/posts/goodsmile/</guid>
       <description>CHOSO #NOHR NOBLE CORRIN #SAMUS (DREAD) #TOJI #KOBENI #AKI #GABIMARU #RANNI #VLADILENA #</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:61558/posts/goodsmile/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/goodsmile/featured.png" />
     </item>
     
   </channel>
