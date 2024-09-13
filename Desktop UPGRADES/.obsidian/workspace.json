@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/GOODSMILE/index.md",
+                "file": "posts/Templates/CLOTHING_TEMPLATE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/GOODSMILE/index.md",
+                "file": "posts/Templates/CLOTHING_TEMPLATE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/GOODSMILE/index.md",
+                "file": "posts/Templates/CLOTHING_TEMPLATE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/GOODSMILE/index.md"
+                "file": "posts/Templates/CLOTHING_TEMPLATE.md"
               }
             }
           }
@@ -151,14 +151,15 @@
   },
   "active": "a33a792b1c87b91b",
   "lastOpenFiles": [
-    "posts/GOODSMILE/featured.png",
+    "posts/Templates/PEEKER.md",
+    "posts/Templates/NENDOROID.md",
+    "about.md",
+    "posts/Templates/MOUSEPAD.md",
     "posts/GOODSMILE/index.md",
+    "posts/GOODSMILE/featured.png",
     "posts/GOODSMILE/01_2305241522244259-1200x1200.jpg",
     "posts/GOODSMILE/47fa0a85ffbc41ec9f2a2cfd8f2a180axl.png",
-    "posts/Templates/MOUSEPAD.md",
-    "posts/Templates/NENDOROID.md",
     "_index.md",
-    "about.md",
     "posts/WISHLIST/GOODSMILE/index.md",
     "posts/GOODSMILE",
     "posts/WISHLIST/GOODSMILE/47fa0a85ffbc41ec9f2a2cfd8f2a180axl.png",
@@ -176,7 +177,6 @@
     "New Text Document.txt",
     "WISHLIST/NENDOROID.md",
     "posts/WISHLIST",
-    "posts/Templates/PEEKER.md",
     "posts/Templates/CLOTHING_TEMPLATE.md",
     "posts/Templates",
     "posts",
