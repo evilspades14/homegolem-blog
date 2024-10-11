@@ -142,9 +142,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "a33a792b1c87b91b",
