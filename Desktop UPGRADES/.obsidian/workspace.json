@@ -126,13 +126,21 @@
                 "file": "posts/GOODSMILE/01_2305241522244259-1200x1200.jpg"
               }
             }
+          },
+          {
+            "id": "b0e1601491e0f5cb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,10 +150,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a33a792b1c87b91b",
+  "active": "c530ebccdd5cd258",
   "lastOpenFiles": [
     "posts/GOODSMILE/47fa0a85ffbc41ec9f2a2cfd8f2a180axl.png",
     "posts/Templates/CLOTHING_TEMPLATE.md",

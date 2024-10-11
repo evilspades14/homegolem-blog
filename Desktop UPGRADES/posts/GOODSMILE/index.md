@@ -7,10 +7,6 @@ title: GOODSMILE
 
 <div style="overflow:hidden;padding:0;position:relative;height:300;width:300;"><img width=300 src="47fa0a85ffbc41ec9f2a2cfd8f2a180axl.png"></div>
 
-## [NOHR NOBLE CORRIN](https://www.goodsmileus.com/product/nohr-noble-corrin-10938?search=Nohr)
-<div style="overflow:hidden;padding:0;position:relative;height:300;width:300;"><img 
-width=300 src="https://imgs1.goodsmileus.com/image/cache/data/productimages/ScaleFigures/NohrNobleCorrin/01_2305241522244259-1200x1200.jpg"></div>
-
 ## [SAMUS (DREAD)](https://www.goodsmileus.com/product/figma-samus-aran-dread-ver-9210)
 <div style="overflow:hidden;padding:0;position:relative;height:300;width:300;"><img 
 width=300 src="https://imgs1.goodsmileus.com/image/cache/data/productimages/Figmas/SamusAran_DREAD/01_2209261242035746-1200x1200.jpg"></div>
